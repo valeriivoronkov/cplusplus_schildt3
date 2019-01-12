@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/page28/dist/
+/page28/build/
